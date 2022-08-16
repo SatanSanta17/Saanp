@@ -1,2 +1,2 @@
-# 30daysOfCode
-I will code every day an push on my git hub for the next 30 days, i challenge my self!
+Snake Game 
+My first game developed in python where the GUI used is tkinter i will be making many more updates in it in the future so stay tuned
